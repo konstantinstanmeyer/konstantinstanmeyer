@@ -10,11 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericahashert&repo=Phase-3-Frontend)](https://github.com/ericahashert/Phase-3-Frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericahashert&repo=Phase-3-Frontend)](https://github.com/ericahashert/Phase-3-Frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericahashert&repo=phase-3-sinatra-react-project)](https://github.com/konstantinstanmeyer/ericahashert/phase-3-sinatra-react-project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
 <!--
 **konstantinstanmeyer/konstantinstanmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
