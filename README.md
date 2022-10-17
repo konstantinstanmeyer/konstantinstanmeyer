@@ -1,8 +1,8 @@
 # <strong>Hello, I'm Konstantin (he/him)</strong> 👊
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinstanmeyer&layout=compact"/>
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinstanmeyer&layout=compact"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
