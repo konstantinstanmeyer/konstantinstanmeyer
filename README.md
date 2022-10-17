@@ -25,6 +25,8 @@
 
 ### [Creating Pop-Ups](https://dev.to/konstantinstanmeyer/creating-pop-ups-11om)
 
+<br/>
+
 > <h3>Additional Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=Lukon-Drink-Finder)](https://github.com/konstantinstanmeyer/Lukon-Drink-Finder) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
