@@ -15,31 +15,14 @@
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h3 align="left">Blog Posts</h3>
+<h2 align="left">Blog Posts</h2>
 
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
-
+#### [Whimsical Wonderland](https://dev.to/konstantinstanmeyer/whimsical-wonderland-3jhb)
 
 > <h3>Additional Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=Lukon-Drink-Finder)](https://github.com/konstantinstanmeyer/Lukon-Drink-Finder) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=Lukon-Drink-Finder"/>
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericahashert&repo=phase-3-sinatra-react-project"/>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericahashert&repo=Phase-3-Frontend)](https://github.com/ericahashert/Phase-3-Frontend) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ericahashert&repo=phase-3-sinatra-react-project)](https://github.com/konstantinstanmeyer/ericahashert/phase-3-sinatra-react-project)
-<!--
-**konstantinstanmeyer/konstantinstanmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
