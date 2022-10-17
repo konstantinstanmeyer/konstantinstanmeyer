@@ -1,19 +1,27 @@
-###Hello, I'm Konstantin (he/him) 👊
+# <strong>Hello, I'm Konstantin (he/him)</strong> 👊
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinstanmeyer&layout=compact"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=radical"/>
 
-<br>
-<br>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h3>Blog Posts</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3 align="left">Blog Posts</h3>
 
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
 
-<h3>Additional Projects</h3>
+> <h3>Additional Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=Lukon-Drink-Finder)](https://github.com/konstantinstanmeyer/Lukon-Drink-Finder) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
 
