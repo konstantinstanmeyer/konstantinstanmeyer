@@ -4,6 +4,8 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=radical"/>
 
+<br>
+<br>
 
 <h3>Blog Posts</h3>
 
