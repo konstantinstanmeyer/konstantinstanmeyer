@@ -17,7 +17,7 @@
 
 <h2 align="left">Blog Posts</h2>
 
-![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+my page => ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 ### [Whimsical Wonderland](https://dev.to/konstantinstanmeyer/whimsical-wonderland-3jhb)
 
