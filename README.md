@@ -3,8 +3,8 @@
 ![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinstanmeyer&layout=compact)](https://github.com/konstantinstanmeyer/github-readme-stats)
 
 <h3>Blog Posts</h3>
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
+
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 <h3>Additional Projects</h3>
 
