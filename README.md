@@ -2,7 +2,9 @@
 
 ![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinstanmeyer&layout=compact)](https://github.com/konstantinstanmeyer/github-readme-stats)
 
-###<h3>hello</h3>
+<h3>Blog Posts</h3>
+
+<h3>Projects</h3>
 <!--
 **konstantinstanmeyer/konstantinstanmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
