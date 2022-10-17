@@ -1,6 +1,7 @@
 Hello, I'm Konstantin 👊
 
-[![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer)](https://github.com/konstantinstanmeyer/github-readme-stats)
+![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=radical)
+
 
 <!--
 **konstantinstanmeyer/konstantinstanmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
