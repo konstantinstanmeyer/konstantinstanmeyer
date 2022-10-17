@@ -19,7 +19,7 @@
 
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
-#### [Whimsical Wonderland](https://dev.to/konstantinstanmeyer/whimsical-wonderland-3jhb)
+### [Whimsical Wonderland](https://dev.to/konstantinstanmeyer/whimsical-wonderland-3jhb)
 
 > <h3>Additional Projects</h3>
 
