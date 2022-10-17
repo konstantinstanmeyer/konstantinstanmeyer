@@ -9,6 +9,12 @@
 <h3>Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=Phase-3-Frontend)](https://github.com/ericahashert/Phase-3-Frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konstantinstanmeyer&repo=final-project-phase-2)](https://github.com/konstantinstanmeyer/final-project-phase-2)
 <!--
 **konstantinstanmeyer/konstantinstanmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
