@@ -20,7 +20,3 @@
 ### [Creating Pop-Ups](https://dev.to/konstantinstanmeyer/creating-pop-ups-11om)
 
 <br/>
-
-> <h3>Additional Projects</h3>
-
-*coming soon*
