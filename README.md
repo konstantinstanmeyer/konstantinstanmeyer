@@ -31,7 +31,7 @@
 
 ### [Testing with Mocha](https://dev.to/konstantinstanmeyer/testing-code-1po0)
 
-### [Password Reset-Tokens with SendGrid](https://dev.to/konstantinstanmeyer/an-intro-to-usecontext-in-reactjs-38jg)
+### [Password Reset-Tokens with SendGrid](https://dev.to/konstantinstanmeyer/reset-user-passwords-4hco)
 
 ### [Intro to useContext in React](https://dev.to/konstantinstanmeyer/an-intro-to-usecontext-in-reactjs-38jg)
 
