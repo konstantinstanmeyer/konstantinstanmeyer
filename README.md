@@ -27,6 +27,7 @@
 
 ![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantinstanmeyer&layout=compact)](https://github.com/konstantinstanmeyer/github-readme-stats)
 
 <h2 align="left">Blog Posts</h2>
 
