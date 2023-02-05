@@ -25,7 +25,8 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-[![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer)](https://github.com/konstantinstanmeyer/github-readme-stats)
+![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=konstantinstanmeyer&show_icons=true&theme=tokyonight)
+
 
 <h2 align="left">Blog Posts</h2>
 
